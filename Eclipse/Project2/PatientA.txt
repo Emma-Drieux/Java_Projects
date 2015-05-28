@@ -1,0 +1,6 @@
+Hb		5
+HPT		3
+FER		20
+CRP		4
+FIB		6
+TROP		1
